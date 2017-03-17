@@ -1,0 +1,23 @@
+{
+    "QUICKPANEL": {
+        "TODAY": "HARI INI",
+        "CHAT": "OBROLAN",
+        "ACTIVITY": "AKTIVITAS",
+        "FRIENDS": "Teman",
+        "APP_SERVERS": "Server Aplikasi",
+        "USER_STATS": "Statistik Pengguna",
+        "EVENTS": "Event",
+        "NOTES": "Catatan",
+        "QUICK_SETTINGS": "Pengaturan Cepat",
+        "NOTIFICATIONS": "Notifikasi",
+        "CLOUD_SYNC": "Cloud Sync",
+        "RETRO_THRUSTERS": "Retro Thrusters",
+        "RECENT": "Terbaru",
+        "START_NEW_CHAT": "Mulai Obrolan",
+        "BACK": "Kembali",
+        "CALL": "Panggil",
+        "MORE": "Lagi",
+        "SEND_MESSAGE": "Kirim Pesan",
+        "REPLY_PLACEHOLDER": "Ketik pesan dan tekan Enter untuk kirim"
+    }
+}

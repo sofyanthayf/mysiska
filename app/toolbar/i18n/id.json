@@ -1,0 +1,13 @@
+{
+    "TOOLBAR": {
+        "TOGGLE_NAVIGATION": "Ganti navigasi",
+        "TOGGLE_NAVIGATION_FOLD": "Ganti lipatan navigasi",
+        "TOGGLE_NAVIGATION_MODE": "Ganti mode navigasi",
+        "SEARCH": "Pencarian",
+        "USER_SETTINGS": "Pengaturan Pengguna",
+        "TOGGLE_QUICK_PANEL": "Ganti panel cepat",
+        "ENGLISH": "Inggris",
+        "SPANISH": "Spanyol",
+        "INDONESIA": "Indonesia"
+    }
+}
